@@ -9,8 +9,12 @@
 # https://rafarz76.github.io/CloneFrontEndNetflix/
 
 ### 🚀 Passo a Passo:
-1º Criar o index.html, já acrescentando as imagens e vídeos;
-2º Criar o style.css;
-3º Criar o JavaScript;
-✅ 😀👀 Bora lá...
+
+1️⃣ Criar o index.html, já acrescentando as imagens e vídeos;
+
+2️⃣ Criar o style.css;
+
+3️⃣ Criar o JavaScript;
+
+😀👀 Bora lá...
 
