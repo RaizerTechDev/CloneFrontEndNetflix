@@ -16,5 +16,7 @@
 
 3️⃣ Criar o JavaScript;
 
-😀👀 Bora lá...
+↪😀👀 Bora lá....
+
+↪ Gostou, então já deixa a 🌟
 
