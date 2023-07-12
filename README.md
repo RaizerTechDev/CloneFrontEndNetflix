@@ -5,7 +5,6 @@
 ✅ Projeto esse do Netflix, agradecendo a dedicação do professor Edu e da Professora Ghalba;
 
 <br>
-
  <div align="center">
 # <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="55" width="55"> 
 
