@@ -8,7 +8,7 @@
  <div align="center">
 # <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="55" width="55"> 
 
-### [Clique aqui para acessar o Projeto](https://rafarz76dev.github.io/CloneFrontEndNetflix/)
+### [Clique aqui para acessar o Projeto](https://raizertechdev-cloneflix.netlify.app/)
 
  
 ***
